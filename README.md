@@ -10,6 +10,7 @@ Outputs an 8-bit signed product P
 
 
 Algorithm:
+![image](https://github.com/user-attachments/assets/a409e8da-f5b5-467c-b922-3d27d58a6e9c)
 
 At each clock cycle:
 
