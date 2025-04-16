@@ -8,9 +8,11 @@ Uses Booth's encoding logic to multiply them across 4 clock cycles
 
 Outputs an 8-bit signed product P
 
-
 Algorithm:
-![image](https://github.com/user-attachments/assets/a409e8da-f5b5-467c-b922-3d27d58a6e9c)
+
+![image](https://github.com/user-attachments/assets/f872768d-b067-4e6d-a7f1-a6dd43c4aaa7)
+
+
 
 At each clock cycle:
 
