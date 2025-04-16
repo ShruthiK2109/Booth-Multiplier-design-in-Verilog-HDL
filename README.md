@@ -34,6 +34,7 @@ Expected Output (P): 0001_0101 // 7 * 3 = 21
 
 
 Files
+
 booth_multiplier.v: Main Verilog module implementing the Booth multiplier
 
 booth_multiplier_tb.v: Testbench for simulation with waveform generation
