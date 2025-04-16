@@ -8,6 +8,7 @@ Uses Booth's encoding logic to multiply them across 4 clock cycles
 
 Outputs an 8-bit signed product P
 
+
 Algorithm:
 
 At each clock cycle:
@@ -24,11 +25,13 @@ Depending on {Q0, Q-1}:
 
 Each case perform arithmetic right shift on {A, Q0, Q-1}
 
+
 Test case and final output:
 
 M = 0111 // +7
 Q = 0011 // +3
 Expected Output (P): 0001_0101 // 7 * 3 = 21
+
 
 Files
 booth_multiplier.v: Main Verilog module implementing the Booth multiplier
